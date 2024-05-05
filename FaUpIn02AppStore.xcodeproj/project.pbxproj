@@ -15,6 +15,7 @@
 		D8112D602BE116DB00BD6DD6 /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8112D5F2BE116DB00BD6DD6 /* TodayViewController.swift */; };
 		D8112D622BE1241300BD6DD6 /* TodayCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8112D612BE1241300BD6DD6 /* TodayCollectionViewCell.swift */; };
 		D8112D642BE13D6100BD6DD6 /* TodayCollectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8112D632BE13D6100BD6DD6 /* TodayCollectionHeaderView.swift */; };
+		D8230CEA2BE7C4F500760FE6 /* AppDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8230CE92BE7C4F500760FE6 /* AppDetailViewController.swift */; };
 		D83984842BE2689200AB8828 /* AppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D83984832BE2689200AB8828 /* AppViewController.swift */; };
 		D88459FE2BDFE5B3001626A6 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = D88459FD2BDFE5B3001626A6 /* Kingfisher */; };
 		D8845A012BDFE5CC001626A6 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = D8845A002BDFE5CC001626A6 /* SnapKit */; };
@@ -38,6 +39,7 @@
 		D8112D5F2BE116DB00BD6DD6 /* TodayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewController.swift; sourceTree = "<group>"; };
 		D8112D612BE1241300BD6DD6 /* TodayCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayCollectionViewCell.swift; sourceTree = "<group>"; };
 		D8112D632BE13D6100BD6DD6 /* TodayCollectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayCollectionHeaderView.swift; sourceTree = "<group>"; };
+		D8230CE92BE7C4F500760FE6 /* AppDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDetailViewController.swift; sourceTree = "<group>"; };
 		D83984832BE2689200AB8828 /* AppViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppViewController.swift; sourceTree = "<group>"; };
 		D88FFD852BE51A8C006BDEE4 /* RankingFeatureSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingFeatureSectionView.swift; sourceTree = "<group>"; };
 		D88FFD872BE52A55006BDEE4 /* RankingFeatureCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingFeatureCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				D83984822BE2687000AB8828 /* App */,
 				D8112D5E2BE116A500BD6DD6 /* Today */,
 				D80CAF482BDE73B400FA7E95 /* TabBarController.swift */,
+				D8230CE92BE7C4F500760FE6 /* AppDetailViewController.swift */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 				D8112D622BE1241300BD6DD6 /* TodayCollectionViewCell.swift in Sources */,
 				D88FFD8C2BE53AF9006BDEE4 /* RedeemCodeButtonView.swift in Sources */,
 				D892C56B2BE3D1160053BA77 /* FeatureSectionView.swift in Sources */,
+				D8230CEA2BE7C4F500760FE6 /* AppDetailViewController.swift in Sources */,
 				D88FFD882BE52A55006BDEE4 /* RankingFeatureCollectionViewCell.swift in Sources */,
 				D88FFD862BE51A8C006BDEE4 /* RankingFeatureSectionView.swift in Sources */,
 			);
